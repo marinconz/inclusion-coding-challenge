@@ -1,9 +1,10 @@
-import StatusDashboard from './containers/StatusDashboard';
+import React from "react";
+import StatusDashboard from "./containers/StatusDashboard";
 
 function App() {
-  return (
-    <StatusDashboard/>
-  );
+	return (
+		<StatusDashboard/>
+	);
 }
 
 export default App;

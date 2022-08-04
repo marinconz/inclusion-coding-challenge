@@ -1,12 +1,21 @@
 import React from "react";
-import styles from './Status.module.css'
+import PropTypes from "prop-types";
+
+import styles from "./Status.module.css";
 
 const Status = ({success, message}) =>{
-    return(
-        <div className={success ? styles.healthyStatus : styles.errorStatus}>
-            {success ? message : 'Error'}
-        </div>
-    )
-}
+	return(
+		<div className={success ? styles.healthyStatus : styles.errorStatus}>
+			{success ? message : "Error"}
+		</div>
+	);
+};
 
-export default Status
+Status.propTypes = {
+	success: PropTypes.string
+};
+
+Status.propTypes = {
+	message: PropTypes.string
+};
+export default Status;
