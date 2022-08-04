@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inclusion-coding-challenge/static/css/main.3d5796bd.css",
+    "main.js": "/inclusion-coding-challenge/static/js/main.76817701.js",
+    "index.html": "/inclusion-coding-challenge/index.html",
+    "main.3d5796bd.css.map": "/inclusion-coding-challenge/static/css/main.3d5796bd.css.map",
+    "main.76817701.js.map": "/inclusion-coding-challenge/static/js/main.76817701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5796bd.css",
+    "static/js/main.76817701.js"
+  ]
+}
