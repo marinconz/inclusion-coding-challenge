@@ -1,7 +1,6 @@
 {
   "name": "coding-challenge",
   "version": "0.1.0",
-  "homepage": "https://marinconz.github.io/inclusion-coding-challenge",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
@@ -43,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1"
   }
 }
