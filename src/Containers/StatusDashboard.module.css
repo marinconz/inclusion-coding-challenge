@@ -1,0 +1,21 @@
+:global(.MuiGrid-container){
+    margin-top: 8vh !important;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.dashboard{
+    background-color: #d3d3d3;
+    height: 100vh;
+}
+
+.dashboardTitle{
+    background-color: #344152;
+    color: white;
+    font-size: 25px;
+    height: 60px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}

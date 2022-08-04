@@ -1,0 +1,15 @@
+.healthyStatus{
+    background-color: green;
+    color: white;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.errorStatus{
+    background-color: red;
+    color: white;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
