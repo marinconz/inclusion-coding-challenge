@@ -2,7 +2,7 @@ import React from 'react';
 import { Grid } from '@mui/material';
 
 import { apiInfo } from "../assets/apiInfo";
-import StatusCard from '../Components/StatusCard';
+import StatusCard from '../components/StatusCard';
 import styles from './StatusDashboard.module.css'
 
 

@@ -1,4 +1,4 @@
-import StatusDashboard from './Containers/StatusDashboard';
+import StatusDashboard from './containers/StatusDashboard';
 
 function App() {
   return (
